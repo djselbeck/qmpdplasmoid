@@ -1,0 +1,1 @@
+A mpd client based on symbian/qt application qmobilempd
